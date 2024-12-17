@@ -495,6 +495,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Anna Karenina | Leo Tolstoy | [4.02](https://www.goodreads.com/book/show/15823480-anna-karenina) | 1878 |
 | Bleak House | Charles Dickens | [4.00](https://www.goodreads.com/book/show/31242.Bleak_House) | 1853 |
 | J'accuse | Emile Zola | [3.99](https://www.goodreads.com/book/show/816964.J_accuse) | 1898 |
+| Animal Farm | George Orwell | [3.99](https://www.goodreads.com/book/show/170448.Animal_Farm) | 1945 |
 | Catch 22 | Joseph Heller | [3.98](https://www.goodreads.com/book/show/4610.Catch_22) | 1961 |
 | The House of Mirth | Edith Wharton | [3.94](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) | 1905 |
 | Confessions of a Mask | Yukio Mishima | [3.91](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) | 1949 |
